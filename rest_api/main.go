@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/aslammulla/golang/employee"
+	"github.com/aslammulla/golang/rest_api/employee"
 	"github.com/gofiber/fiber"
 )
 
